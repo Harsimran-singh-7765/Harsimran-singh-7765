@@ -18,7 +18,7 @@
 
 ---
 
-### 📡 System Information
+###  System Information
 
 ```bash
 -`                    harsimran@arch
@@ -46,7 +46,7 @@
 ```
 ---
 
-### 🏆 Achievement Unlocked
+###  Achievement Unlocked
 
 ```diff
 + [LEGENDARY] Best Performer Award - Elevate Labs (July 2025)
@@ -59,7 +59,7 @@
 
 ---
 
-### 💾 Tech Stack
+###  Tech Stack
 
 ```yaml
 languages:
@@ -105,7 +105,7 @@ interests:
 
 ---
 
-### 🚀 Featured Projects
+###  Featured Projects
 
 ```bash
 $ ls ~/projects/featured
@@ -135,7 +135,7 @@ $ echo "Check pinned repos below for more details ↓"
 
 ---
 
-### 📊 GitHub Analytics
+###  GitHub Analytics
 
 <div align="center">
   
@@ -150,7 +150,7 @@ $ echo "Check pinned repos below for more details ↓"
 
 ---
 
-### 🤝 Let's Connect
+###  Let's Connect
 
 ```python
 class Developer:
@@ -188,11 +188,11 @@ me.say_hi()
 
 <div align="center">
 
-### 💭 Random Dev Quote
+###  Random Dev Quote
 
 ![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
-### 🐍 Contribution Snake
+###  Contribution Snake
 
 ![Snake animation](https://raw.githubusercontent.com/Harsimran-singh-7765/Harsimran-singh-7765/output/github-contribution-grid-snake-dark.svg)
 
@@ -210,7 +210,7 @@ me.say_hi()
 ╚═══════════════════════════════════════════════════════════════╝
 ```
 
-**⭐️ If you like what you see, drop a star on my repos!**
+** If you like what you see, drop a star on my repos!**
 
 ![Wave](https://raw.githubusercontent.com/mayhemantt/mayhemantt/Update/svg/Bottom.svg)
 
