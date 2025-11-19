@@ -190,10 +190,10 @@ me.say_hi()
 ![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 ###  Contribution Snake
-### 🐍 Contribution Snake
+### Contribution Snake
 
 ![Snake animation](https://raw.githubusercontent.com/Harsimran-singh-7765/Harsimran-singh-7765/output/github-contribution-grid-snake-dark.svg)
-</div>3
+</div>
 
 ---
 
