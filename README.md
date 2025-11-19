@@ -137,16 +137,13 @@ $ echo "Check pinned repos below for more details ↓"
 
 ###  GitHub Analytics
 
-<div align="center">
-  
-  ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Harsimran-singh-7765&show_icons=true&theme=radical&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=1f6feb&text_color=c9d1d9)
-  
-  ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Harsimran-singh-7765&layout=compact&theme=radical&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9)
-  
-  ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Harsimran-singh-7765&theme=radical&hide_border=true&background=0d1117&stroke=58a6ff&ring=58a6ff&fire=ff6b6b&currStreakLabel=c9d1d9)
- 
 
-</div>
+ <!-- Alternative Stats Card Services -->
+![Profile Summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Harsimran-singh-7765&theme=radical)
+
+<!-- Ya phir Trophy Stats -->
+![Trophy](https://github-profile-trophy.vercel.app/?username=Harsimran-singh-7765&theme=radical&no-frame=true&row=1&column=6)
+
 
 ---
 
@@ -193,10 +190,10 @@ me.say_hi()
 ![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 ###  Contribution Snake
+### 🐍 Contribution Snake
 
 ![Snake animation](https://raw.githubusercontent.com/Harsimran-singh-7765/Harsimran-singh-7765/output/github-contribution-grid-snake-dark.svg)
-
-</div>
+</div>3
 
 ---
 
